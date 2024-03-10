@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "163077646942",
+    "project_id": "productpro-5eef6",
+    "storage_bucket": "productpro-5eef6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163077646942:android:e486169aeef2ae65cee2cf",
+        "android_client_info": {
+          "package_name": "com.example.adminpanel_hardwarepro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbm0o8-UgSpp9QOy7Rx90xZJUyR1yOsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163077646942:android:154b48bd44d2a81acee2cf",
+        "android_client_info": {
+          "package_name": "com.example.hardware_pro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApbm0o8-UgSpp9QOy7Rx90xZJUyR1yOsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
