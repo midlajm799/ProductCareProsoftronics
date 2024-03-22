@@ -40,7 +40,9 @@ class SelectedProDetailPage extends StatelessWidget {
             Padding(
               padding: const EdgeInsets.only(right: 350),
               child: IconButton(
-                  onPressed: () {}, icon: const Icon(Icons.arrow_back_ios)),
+                  onPressed: () {
+                    Navigator.pop(context);
+                  }, icon: const Icon(Icons.arrow_back_ios)),
             ),
             Container(
                 width: width,

@@ -35,7 +35,9 @@ class _MyCartScreenState extends State<MyCartScreen> {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
                       IconButton(
-                          onPressed: () {},
+                          onPressed: () {
+                            Navigator.pop(context);
+                          },
                           icon: const Icon(Icons.arrow_back_ios)),
                       const Text(
                         "My cart",
